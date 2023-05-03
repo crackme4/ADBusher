@@ -1,7 +1,7 @@
 # ADBusher
 ![adbusher](https://user-images.githubusercontent.com/110720210/235856930-ffb87dd8-ec13-4908-920f-ee979550fbd3.png)
 ___
-_ADBusher_ is a script that includes ADB (Android Debug Bridge) and Scrcpy (Display and Control Device).Performs the function of connecting to devices under the Android operating system, with the adb 5555 port open, which is intended for remote control of the device. Once connected, the full functionality of this scpy is revealed.
+_ADBusher_ is a script that includes ADB (Android Debug Bridge) and Scrcpy (Display and Control Device).Performs the function of connecting to devices under the Android operating system, with the adb 5555 port open, which is intended for remote control of the device. Once connected, the full functionality of this scrcpy is revealed.
 
 __These are:__
 1. Connecting to a device.
